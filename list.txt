@@ -6,9 +6,6 @@ heroin
 chips
 weintrauben
 wein
-<<<<<<< HEAD
 tomaten
 gurkerl
 paprika
-=======
->>>>>>> parent of e8692a4 (Add Teesorten)

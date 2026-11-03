@@ -9,3 +9,5 @@ wein
 tomaten
 gurkerl
 paprika
+salat
+oliven

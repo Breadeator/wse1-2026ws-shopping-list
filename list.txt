@@ -13,3 +13,4 @@ gurkerl
 paprika
 salat
 oliven
+brot

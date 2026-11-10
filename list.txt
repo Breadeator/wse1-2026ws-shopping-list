@@ -20,3 +20,4 @@ salat
 oliven
 brot
 ginger beer
+club mate

@@ -5,6 +5,7 @@ aepfel
 birnen
 boote boote boote
 bier
+eis
 kaffee
 heroin
 hausschuhe

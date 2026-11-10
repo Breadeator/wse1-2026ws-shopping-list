@@ -19,3 +19,4 @@ paprika
 salat
 oliven
 brot
+ginger beer
